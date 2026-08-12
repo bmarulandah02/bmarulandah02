@@ -36,9 +36,6 @@ Highlights repositories as proof of work.
     <img src="https://www.gitskins.com/api/section/projects?username=bmarulandah02&theme=github-dark" alt="bmarulandah02 projects section" />
   </picture>
 </p>
-## Heatmap
-> Editing this section in the inspector.
-Animated year-long contribution calendar.
 ## GitHub Stats
 GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
@@ -55,5 +52,8 @@ Contact and social links will appear here.
     <img src="https://www.gitskins.com/api/section/social?username=bmarulandah02&theme=github-dark" alt="bmarulandah02 social section" />
   </picture>
 </p>
+## Heatmap
+> Editing this section in the inspector.
+Animated year-long contribution calendar.
 
-<!-- Sections: Header, About Me, Skills, Projects, Heatmap, GitHub Stats, Connect -->
+<!-- Sections: Header, About Me, Skills, Projects, GitHub Stats, Connect, Heatmap -->
