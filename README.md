@@ -1,8 +1,59 @@
+# bmarulandah02
 
-<div align="center"> <h3><code>bmarulandah02@github ~ $ whoami</code></h3> <table> <tr> <td width="42%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=bmarulandah02&theme=github-dark&style=terminal&mode=light" />
-</picture></td>
+> Memorable developer positioning.
 
-<td width="58%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=bmarulandah02&theme=github-dark&style=terminal&label=Brian+Marulanda+Henao&mode=light" />
-</picture></td>
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-</tr> </table> <p><b>Frontend or full-stack engineer</b></p> <p><a href="https://github.com/bmarulandah02">GitHub</a></p> </div> <div align="center"> <h3><code>bmarulandah02@github ~ $ ./contributions.sh</code></h3> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=bmarulandah02&theme=github-dark&style=terminal&mode=light" /> </picture> </div> <p align="center"><sub>Brian Marulanda Henao · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## Header
+Hi, I'm **bmarulandah02**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=bmarulandah02&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=bmarulandah02&theme=github-dark" alt="bmarulandah02 hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=bmarulandah02&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=bmarulandah02&theme=github-dark" alt="bmarulandah02 about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=bmarulandah02&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=bmarulandah02&theme=github-dark" alt="bmarulandah02 stack section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=bmarulandah02&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=bmarulandah02&theme=github-dark" alt="bmarulandah02 projects section" />
+  </picture>
+</p>
+## Heatmap
+> Editing this section in the inspector.
+Animated year-long contribution calendar.
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=bmarulandah02&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=bmarulandah02&theme=github-dark" alt="bmarulandah02 stats section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=bmarulandah02&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=bmarulandah02&theme=github-dark" alt="bmarulandah02 social section" />
+  </picture>
+</p>
+
+<!-- Sections: Header, About Me, Skills, Projects, Heatmap, GitHub Stats, Connect -->
