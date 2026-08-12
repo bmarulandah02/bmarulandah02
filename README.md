@@ -205,10 +205,10 @@ CLOUD_NETWORK:
 <a href="https://github.com/bmarulandah02">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/brian-marulanda-henao">
+<a href="https://www.linkedin.com/in/brian-marulanda-635547328/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/bmarulandah02">
+<a href="https://twitter.com/bmarulandah4">
   <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="#">
