@@ -126,19 +126,19 @@ Aplicación para la gestión de procesos en una biblioteca escolar.
 ```yaml
 PROGRAMMING_LANGUAGES:
   arsenal: [![My Skills](https://skillicons.dev/icons?i=js,angular,bootstrap,react,nodejs,cs,php,mysql,firebase,sqlite,postgresql,mongodb,docker,reactnative,kotlin,figma,photoshop,git,github,gitlab,vscode,postman)](https://skillicons.dev)
-  
+
 FRONTEND_MATRIX:
   skills: "[![My Skills](https://skillicons.dev/icons?i=js,angular,bootstrap,react)](https://skillicons.dev)"
-  
+
 BACKEND_CORE:
   skills: "[![My Skills](https://skillicons.dev/icons?i=nodejs,cs,php)](https://skillicons.dev)"
-  
+
 DATABASE_NODES:
   connections: "[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,sqlite,postgresql,mongodb)](https://skillicons.dev)"
-  
+
 DEVOPS_PIPELINE:
   automation: "[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)"
-  
+
 CLOUD_NETWORK:
   infrastructure: "[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)"
 ```
@@ -167,7 +167,7 @@ CLOUD_NETWORK:
 
 <!-- NOTA: Los servicios github-readme-stats pueden estar intermitentes, si no cargan es por sus servidores -->
 <img src="https://github-readme-stats.vercel.app/api?username=bmarulandah02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0080" alt="GitHub Stats" width="49%"/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bmarulandah02&locale=es" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bmarulandah02&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" alt="GitHub Streak" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmarulandah02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" width="45%"/>
 
